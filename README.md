@@ -1,0 +1,2 @@
+# EGS
+Wordpress sistio EGS
